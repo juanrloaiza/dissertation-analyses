@@ -12,7 +12,7 @@ Some interesting figures I extracted from this data include common word pairings
 
 ![Most frequent words](/figures/word_freq.png?raw=True)
 ![Most frequent bigrams](/figures/bigram_freq.png?raw=True)
-![Most frequent trigrams](/figures/word_freq.png?raw=True)
+![Most frequent trigrams](/figures/trigram_freq.png?raw=True)
 ![Most cited works](/figures/citation_freq.png?raw=True)
 
 ## To do
