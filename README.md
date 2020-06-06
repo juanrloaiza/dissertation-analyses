@@ -1,4 +1,4 @@
-
+# Dissertation Analytics
 
 This repository has some analyses I did on my dissertation "Emotions as functional kinds: a meta-theoretical approach to constructing scientific theories of emotions" (HU Berlin).
 
